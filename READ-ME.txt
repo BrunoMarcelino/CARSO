@@ -1,11 +1,10 @@
-  =>  Template Name    : Startup - Startup Website Template
+======================================
+PROJET CREATION SITE WEB CARSO Toliara
+======================================
 
-  =>  Template Link    : https://htmlcodex.com/startup-website-template
+* Site de communication
+* Site de présentation des activités
+* Site pour mettre les actualités
+* Site pour la présentation des collaborateurs
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+==============================================
