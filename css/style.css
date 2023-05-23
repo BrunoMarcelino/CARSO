@@ -358,15 +358,15 @@ h6,
 }
 
 
-/*** Testimonial ***/
-.testimonial-carousel .owl-dots {
+/*** Promoteur ***/
+.Promoteur-carousel .owl-dots {
     margin-top: 15px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 
-.testimonial-carousel .owl-dot {
+.Promoteur-carousel .owl-dot {
     position: relative;
     display: inline-block;
     margin: 0 5px;
@@ -377,21 +377,21 @@ h6,
     transition: .5s;
 }
 
-.testimonial-carousel .owl-dot.active {
+.Promoteur-carousel .owl-dot.active {
     width: 30px;
     background: var(--primary);
 }
 
-.testimonial-carousel .owl-item.center {
+.Promoteur-carousel .owl-item.center {
     position: relative;
     z-index: 1;
 }
 
-.testimonial-carousel .owl-item .testimonial-item {
+.Promoteur-carousel .owl-item .Promoteur-item {
     transition: .5s;
 }
 
-.testimonial-carousel .owl-item.center .testimonial-item {
+.Promoteur-carousel .owl-item.center .Promoteur-item {
     background: #FFFFFF !important;
     box-shadow: 0 0 30px #DDDDDD;
 }
@@ -495,7 +495,7 @@ h6,
 }
 
 @media (min-width: 767.98px) {
-    .footer-about {
+    .footer-À propos {
         margin-bottom: -75px;
     }
 }
