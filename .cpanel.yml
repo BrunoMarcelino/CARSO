@@ -4,3 +4,8 @@ deployment:
     - export DEPLOYPATH=/home/carsomg/public_html/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R lib $DEPLOYPATH
+    - /bin/cp about.html $DEPLOYPATH
+    - /bin/cp contact.html $DEPLOYPATH
